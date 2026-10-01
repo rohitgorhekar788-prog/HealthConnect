@@ -4,3 +4,4 @@ Pillow
 reportlab
 python-dotenv
 gunicorn==26.2.0
+whitenoise==6.12.0
