@@ -1,0 +1,6 @@
+Django==6.1.1
+google-generativeai
+Pillow
+reportlab
+python-dotenv
+gunicorn==26.2.0
